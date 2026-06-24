@@ -27,7 +27,8 @@
 - GitHub: [@swording-k](https://github.com/swording-k)
 - Email: [swordingk@gmail.com](mailto:swordingk@gmail.com)
 
----
+<details>
+<summary><strong>English version</strong></summary>
 
 # Skyler Yang
 
@@ -57,3 +58,5 @@ I work between product judgment and engineering execution. I write PRDs and code
 - Website: [swording-k.github.io](https://swording-k.github.io)
 - GitHub: [@swording-k](https://github.com/swording-k)
 - Email: [swordingk@gmail.com](mailto:swordingk@gmail.com)
+
+</details>
