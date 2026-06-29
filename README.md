@@ -26,11 +26,12 @@
 <p>
   <img src="https://img.shields.io/github/issues-search?query=author%3Aswording-k%20type%3Aissue%20is%3Apublic&label=Public%20issues&style=flat-square" alt="Public issues opened" />
   <img src="https://img.shields.io/github/issues-search?query=author%3Aswording-k%20type%3Apr%20is%3Apublic&label=Public%20PRs&style=flat-square" alt="Public pull requests opened" />
+  <img src="https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop?label=CrossPaste%20stars&style=flat-square" alt="CrossPaste stars" />
   <img src="https://komarev.com/ghpvc/?username=swording-k&style=flat-square&color=111111" alt="Profile views" />
 </p>
 
 - [Atoll: AI Agent Hub product proposal](https://github.com/Ebullioscopic/Atoll/issues/539) - 为开源 macOS Dynamic Island 应用提出 AI coding agent 管理中心，覆盖用户场景、MVP、隐私原则、技术阶段和验收标准。
-- [CrossPaste: documentation PR](https://github.com/CrossPaste/crosspaste-desktop/pull/4598) - 针对开源跨设备剪贴板工具提交文档修正。
+- [CrossPaste: merged documentation PR](https://github.com/CrossPaste/crosspaste-desktop/pull/4598) - 向 2k+ star 的开源跨设备剪贴板工具提交并合并文档修正，成为项目 contributor。
 - [Mineradio: experimental macOS build path](https://github.com/XxHuberrr/Mineradio/pull/124) - 探索把现有项目带到 macOS 构建路径上的可行性。
 
 ## GitHub Dashboard
@@ -81,7 +82,7 @@ I work between product judgment and engineering execution. I write PRDs and code
 I use open source as a way to practice product thinking in public: proposing features, submitting PRs, and learning how real maintainers evaluate scope, privacy, and implementation risk.
 
 - [Atoll: AI Agent Hub product proposal](https://github.com/Ebullioscopic/Atoll/issues/539) - a product proposal for bringing local AI coding agent monitoring into a macOS Dynamic Island app.
-- [CrossPaste: documentation PR](https://github.com/CrossPaste/crosspaste-desktop/pull/4598) - a small documentation fix for an open-source cross-device clipboard tool.
+- [CrossPaste: merged documentation PR](https://github.com/CrossPaste/crosspaste-desktop/pull/4598) - a merged documentation fix for a 2k+ star open-source cross-device clipboard tool.
 - [Mineradio: experimental macOS build path](https://github.com/XxHuberrr/Mineradio/pull/124) - an exploratory contribution around macOS build feasibility.
 
 ## Exploring
