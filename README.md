@@ -13,6 +13,14 @@
   <a href="https://github.com/swording-k?tab=followers"><img src="https://img.shields.io/github/followers/swording-k?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
 </p>
 
+<p align="center">
+  <a href="https://swording-k.github.io">
+    <img src="./assets/qrcode_swording-k.github.io.png" width="128" alt="Scan to open swording-k.github.io" />
+  </a>
+  <br />
+  <sub>Scan to open my personal portfolio</sub>
+</p>
+
 ## Featured Work
 
 - [个人网站 / Personal Site](https://swording-k.github.io) - 我的个人作品集与工作台，围绕“宝剑”这个个人符号，展示 AI 产品、iOS 应用、浏览器交互项目和个人经历。
