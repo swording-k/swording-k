@@ -24,7 +24,7 @@
 ## Featured Work
 
 - [Fit Genius](https://github.com/swording-k/fit-genius) - AI 健身训练助手，尝试把训练计划、动作分析、饮食建议和阶段复盘组织成一个更容易坚持的 iOS 体验。
-- [Codex Zen Character](https://github.com/swording-k/codex-theme-creator) - 一句话或一张参考图，让 Codex 为 macOS Codex Desktop 创作、安装并验证一套完整主题。
+- [Codex Theme Creator](https://github.com/swording-k/codex-theme-creator) - 一句话或一张参考图，让 Codex 为 macOS Codex Desktop 创作、安装并验证一套完整主题。
 - [个人网站 / Personal Site](https://swording-k.github.io) - 我的个人作品集与工作台，围绕“宝剑”这个个人符号，展示 AI 产品、iOS 应用、浏览器交互项目和个人经历。
 - [The Last Bookstore](https://github.com/swording-k/the-last-bookstore) - 一个浏览器可玩的 AI 叙事项目，关于记忆、书店，以及数字世界崩塌后还想留下什么。
 
@@ -83,7 +83,7 @@ I work between product judgment and engineering execution. I write PRDs and code
 ## Featured Work
 
 - [Fit Genius](https://github.com/swording-k/fit-genius) - an AI fitness assistant that brings training plans, movement analysis, nutrition guidance, and progress review into a more adaptive iOS experience.
-- [Codex Zen Character](https://github.com/swording-k/codex-theme-creator) - generate, install, and verify a complete theme for macOS Codex Desktop from a single sentence or a reference image.
+- [Codex Theme Creator](https://github.com/swording-k/codex-theme-creator) - generate, install, and verify a complete theme for macOS Codex Desktop from a single sentence or a reference image.
 - [Personal Site](https://swording-k.github.io) - my portfolio and personal workbench, built around the Baojian symbol and my work across AI products, iOS apps, browser-based projects, and personal storytelling.
 - [The Last Bookstore](https://github.com/swording-k/the-last-bookstore) - a browser-playable AI narrative about memory, books, and what remains after a digital world collapses.
 
