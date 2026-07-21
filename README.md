@@ -23,24 +23,25 @@
 
 ## Featured Work
 
-- [个人网站 / Personal Site](https://swording-k.github.io) - 我的个人作品集与工作台，围绕“宝剑”这个个人符号，展示 AI 产品、iOS 应用、浏览器交互项目和个人经历。
 - [Fit Genius](https://github.com/swording-k/fit-genius) - AI 健身训练助手，尝试把训练计划、动作分析、饮食建议和阶段复盘组织成一个更容易坚持的 iOS 体验。
+- [Codex Zen Character](https://github.com/swording-k/codex-theme-creator) - 一句话或一张参考图，让 Codex 为 macOS Codex Desktop 创作、安装并验证一套完整主题。
+- [个人网站 / Personal Site](https://swording-k.github.io) - 我的个人作品集与工作台，围绕“宝剑”这个个人符号，展示 AI 产品、iOS 应用、浏览器交互项目和个人经历。
 - [The Last Bookstore](https://github.com/swording-k/the-last-bookstore) - 一个浏览器可玩的 AI 叙事项目，关于记忆、书店，以及数字世界崩塌后还想留下什么。
 
 ## Open Source Signals
 
-这些不是“拥有的仓库”，而是公开可验证的开源参与记录：产品提案、PR、跨项目问题拆解和贡献尝试。
+我以贡献者身份持续参与 [Atoll](https://github.com/Ebullioscopic/Atoll)（macOS 灵动岛开源项目），已合并多个 PR 并提交产品提案，后续将成为项目 collaborator。点进仓库即可在右侧 contributor 列表中看到我。
 
 <p>
   <img src="https://img.shields.io/github/issues-search?query=author%3Aswording-k%20type%3Aissue%20is%3Apublic&label=Public%20issues&style=flat-square" alt="Public issues opened" />
   <img src="https://img.shields.io/github/issues-search?query=author%3Aswording-k%20type%3Apr%20is%3Apublic&label=Public%20PRs&style=flat-square" alt="Public pull requests opened" />
-  <img src="https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop?label=CrossPaste%20stars&style=flat-square" alt="CrossPaste stars" />
   <img src="https://komarev.com/ghpvc/?username=swording-k&style=flat-square&color=111111" alt="Profile views" />
 </p>
 
-- [Atoll: AI Agent Hub product proposal](https://github.com/Ebullioscopic/Atoll/issues/539) - 为开源 macOS Dynamic Island 应用提出 AI coding agent 管理中心，覆盖用户场景、MVP、隐私原则、技术阶段和验收标准。
-- [CrossPaste: merged documentation PR](https://github.com/CrossPaste/crosspaste-desktop/pull/4598) - 向 2k+ star 的开源跨设备剪贴板工具提交并合并文档修正，成为项目 contributor。
-- [Mineradio: experimental macOS build path](https://github.com/XxHuberrr/Mineradio/pull/124) - 探索把现有项目带到 macOS 构建路径上的可行性。
+- **Atoll** · [Dynamic Island for macOS](https://github.com/Ebullioscopic/Atoll)
+  - 💡 产品提案（[#539](https://github.com/Ebullioscopic/Atoll/issues/539)）：为本地 AI coding agent 提出监控与管理中心，覆盖用户场景、MVP、隐私原则与技术路线。
+  - 🔧 Bug 修复（[#544](https://github.com/Ebullioscopic/Atoll/pull/544)，已合并）：修复非英语环境下统计弹窗因本地化标题匹配失败的问题。
+  - 🔧 Bug 修复（[#566](https://github.com/Ebullioscopic/Atoll/pull/566)，已合并）：修复全天事件/提醒存在时日历自动滚动失效的问题。
 
 ## GitHub Dashboard
 
@@ -81,17 +82,19 @@ I work between product judgment and engineering execution. I write PRDs and code
 
 ## Featured Work
 
-- [Personal Site](https://swording-k.github.io) - my portfolio and personal workbench, built around the Baojian symbol and my work across AI products, iOS apps, browser-based projects, and personal storytelling.
 - [Fit Genius](https://github.com/swording-k/fit-genius) - an AI fitness assistant that brings training plans, movement analysis, nutrition guidance, and progress review into a more adaptive iOS experience.
+- [Codex Zen Character](https://github.com/swording-k/codex-theme-creator) - generate, install, and verify a complete theme for macOS Codex Desktop from a single sentence or a reference image.
+- [Personal Site](https://swording-k.github.io) - my portfolio and personal workbench, built around the Baojian symbol and my work across AI products, iOS apps, browser-based projects, and personal storytelling.
 - [The Last Bookstore](https://github.com/swording-k/the-last-bookstore) - a browser-playable AI narrative about memory, books, and what remains after a digital world collapses.
 
 ## Open Source Signals
 
-I use open source as a way to practice product thinking in public: proposing features, submitting PRs, and learning how real maintainers evaluate scope, privacy, and implementation risk.
+I contribute to [Atoll](https://github.com/Ebullioscopic/Atoll) (an open-source Dynamic Island for macOS) as a recurring contributor — multiple merged PRs and a product proposal, with collaborator access coming up. Open the repo to see me in the contributor list on the right.
 
-- [Atoll: AI Agent Hub product proposal](https://github.com/Ebullioscopic/Atoll/issues/539) - a product proposal for bringing local AI coding agent monitoring into a macOS Dynamic Island app.
-- [CrossPaste: merged documentation PR](https://github.com/CrossPaste/crosspaste-desktop/pull/4598) - a merged documentation fix for a 2k+ star open-source cross-device clipboard tool.
-- [Mineradio: experimental macOS build path](https://github.com/XxHuberrr/Mineradio/pull/124) - an exploratory contribution around macOS build feasibility.
+- **Atoll** · [Dynamic Island for macOS](https://github.com/Ebullioscopic/Atoll)
+  - 💡 Product proposal ([#539](https://github.com/Ebullioscopic/Atoll/issues/539)): a monitoring and management center for local AI coding agents, covering user scenarios, MVP, privacy principles, and the technical roadmap.
+  - 🔧 Bug fix ([#544](https://github.com/Ebullioscopic/Atoll/pull/544), merged): fixed stats popovers failing to match localized graph titles in non-English locales.
+  - 🔧 Bug fix ([#566](https://github.com/Ebullioscopic/Atoll/pull/566), merged): fixed calendar auto-scroll breaking when all-day events/reminders are present.
 
 ## Exploring
 
