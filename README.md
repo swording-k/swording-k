@@ -1,4 +1,4 @@
-# 杨锟 / Skyler Yang
+# 杨锟 / Killian Yang
 
 > 复杂到不能被一句话概括，所以我把想法做成作品。
 
@@ -62,7 +62,7 @@
 <details>
 <summary><strong>English version</strong></summary>
 
-# Skyler Yang
+# Killian Yang
 
 > Too complex to summarize, so I turn ideas into things people can actually try.
 
