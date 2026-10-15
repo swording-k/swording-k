@@ -26,6 +26,7 @@
 - [个人网站 / Personal Site](https://swording-k.github.io) - 我的个人作品集与工作台，围绕“宝剑”这个个人符号，展示 AI 产品、iOS 应用、浏览器交互项目和个人经历。
 - [Fit Genius](https://github.com/swording-k/fit-genius) - AI 健身训练助手，尝试把训练计划、动作分析、饮食建议和阶段复盘组织成一个更容易坚持的 iOS 体验。
 - [WorkIsland](https://github.com/qianzhu18/workisland) - macOS 桌面灵动岛，为 AI coding agent 提供实时状态展示与快捷交互；我以团队核心成员参与产品设计、功能开发与上线迭代。
+- [MemeLab](https://github.com/swording-k/MemeLab) - 开源表情包制作网站，整蛊好友
 - [Atoll](https://github.com/Ebullioscopic/Atoll) - macOS 灵动岛开源项目，当前 3.9k+ Stars；我以 Collaborator 身份加入，持续提交 PR、管理 Issues 并参与产品方向讨论。
 
 ## Open Source Signals
